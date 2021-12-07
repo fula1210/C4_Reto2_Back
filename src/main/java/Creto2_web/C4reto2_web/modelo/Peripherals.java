@@ -24,10 +24,9 @@ public class Peripherals {
     private String reference;
     private String brand;
     private String category;
-    private String objetivo;
     private String description;
-    private boolean availability = true;
     private double price;
+    private boolean availability = true;
     private int quantity;
     private String photography;
 }
